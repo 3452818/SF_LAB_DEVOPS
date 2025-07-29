@@ -1,4 +1,4 @@
-alias.history=log --graph --oneline --all --decorate
+alias.history=log --graph
 core.repositoryformatversion=0
 core.filemode=true
 core.bare=false

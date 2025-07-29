@@ -1,0 +1,9 @@
+alias.history=log --graph --oneline --all --decorate
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:3452818/SF_lAB_DEVOPS.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
